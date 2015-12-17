@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<workspaceFilter version="1.0">
-    <filter root="/apps/aemtaglibs-dependencies/install/squeakysand-jsp-taglib-0.4.0-bnd.jar" />
-    <filter root="/apps/aemtaglibs-dependencies/install/squeakysand-jcr-taglib-0.3.0-bnd.jar" />
-    <filter root="/apps/aemtaglibs-dependencies/install/squeakysand-sling-taglib-0.3.0-bnd.jar" />
-</workspaceFilter>
