@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AEM Tag Library - Example</comment>
+<entry key="createdBy">SRINIVASGOPINATHP</entry>
+<entry key="name">aemtaglibs-sample</entry>
+<entry key="created">2015-12-16T18:36:39.568+0800</entry>
+<entry key="groupId">com.aemtaglibs.developer.packages</entry>
+<entry key="version">0.1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">aemtaglibs</entry>
+<entry key="description">AEM Tag Library - Example</entry>
+<entry key="artifactId">aemtaglibs-sample</entry>
+<entry key="path">/etc/packages/aemtaglibs/aemtaglibs-sample.zip</entry>
+</properties>

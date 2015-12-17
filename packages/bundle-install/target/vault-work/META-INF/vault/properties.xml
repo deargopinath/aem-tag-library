@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AEM Tag Library - bundle package</comment>
+<entry key="createdBy">SRINIVASGOPINATHP</entry>
+<entry key="name">aemtaglibs-bundle-install</entry>
+<entry key="created">2015-12-16T18:36:37.753+0800</entry>
+<entry key="groupId">com.aemtaglibs.developer.packages</entry>
+<entry key="version">0.1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">aemtaglibs-developer</entry>
+<entry key="description">AEM Tag Library - bundle package</entry>
+<entry key="artifactId">aemtaglibs-bundle-install</entry>
+<entry key="path">/etc/packages/aemtaglibs-developer/aemtaglibs-bundle-install.zip</entry>
+</properties>
